@@ -1,0 +1,25 @@
+{
+  "name": "svy",
+  "version": "0.0.0",
+  "description": "a savvy file writer for data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-svy.git"
+  },
+  "keywords": [
+    "file",
+    "write",
+    "save",
+    "data"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-svy/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-svy#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
