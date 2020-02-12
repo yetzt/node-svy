@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/yetzt/node-svy#readme",
   "dependencies": {
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^1.0.0"
   }
 }
